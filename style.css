@@ -12,7 +12,7 @@ li {
 }
 
 a {
-    color: red;
+    color: green;
 }
 
 #mostFavorite {
@@ -24,4 +24,8 @@ a {
 .favorite {
     color: orangered;
     font-weight: bolder;
+}
+
+h1 {
+    color: brown;
 }
